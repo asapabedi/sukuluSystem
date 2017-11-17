@@ -1,13 +1,12 @@
 @charset "utf-8";
 
 /*
-Copyright (c) 2016
+Copyright (c) 2017
 [Master Stylesheet]
-Theme Name : MenorahTutors - Tutors Directory Script
-Version    : 1.0
-Author     : DigiSamaritan
-Author URL : http://themeforest.net/user/digisamaritan
-Support    : digisamaritan@gmail.com
+Theme Name : Sukulusystem - Learning Platform
+Author     : Green Cycle Devs
+Author URL : http://greencycle.com
+Support    : greendevs@gmail.com
 */
 
 
@@ -48,8 +47,8 @@ Table of Contents
 30.Media Queries for Responsive
 
 ----------------------------------------
-[Colors]       - #e27d7f (primary-color)
-               - #534051 (secondary-color)
+[Colors]       - #22cf9e
+               - #40534c 
 [Typography]   - Lato.
 
 ------------------------------------- */
@@ -127,13 +126,13 @@ a {
 }
 
 .heading span {
-    border-bottom: 2px solid #e27d7f;
+    border-bottom: 2px solid #22cf9e;
 }
 
 .heading-line {
     font-size: 24px;
     font-weight: 400;
-    color: #e27d7f;
+    color: #22cf9e;
     border-bottom: 1px solid #e4e4e4;
     padding-bottom: 5px;
     margin: 10px 0 24px 0;
